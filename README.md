@@ -1,6 +1,6 @@
 # Plugins_IDA
 
-Two tool 
+Two tools:
 
 The first one search all sub in your binary. You see realy fast all sub with interfaces.
 
